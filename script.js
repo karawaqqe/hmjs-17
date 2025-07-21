@@ -12,7 +12,7 @@ const mainLink = document.getElementById("mainLink");
 const linkImage = document.getElementById("linkImage");
 
 mainLink.href = "https://google.com";
-linkImage.alt = "Це логотип Google";
+linkImage.alt = "google";
 
 const list = document.getElementById("list");
 const firstItem = list.querySelector("li");
